@@ -28,7 +28,7 @@ List<Project> demo_projects = [
     title: "Sistem Auto Koreksi Jawaban",
     link: "https://github.com/achmadrizkin/covid_tracker_indonesia_app",
     description:
-        "- Responsive Apps\n- API\n- Splash Screen Animation and a lot of more...",
+        "- Responsive Apps\n- API\n- Splash Screengy Animation and a lot of more...",
   ),
   Project(
     title: "Deteksi Atribut Sekolah",
