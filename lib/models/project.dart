@@ -8,32 +8,30 @@ class Project {
 List<Project> demo_projects = [
   Project(
     title: "Flutter Portofolio",
-    link: "https://github.com/achmadrizkin/flutter_web_portofolio",
-    description:
-        "- Responsive\n- Launch URL\n- Clean Code and a lot of more...",
+    link: "https://github.com/Ardanudn/webportofolio",
+    description: "- Responsive\n- Launch URL",
   ),
   Project(
     title: "Bootix App",
-    link: "https://github.com/achmadrizkin/flutter_social_media_integeration",
+    link: "https://play.google.com/store/apps/details?id=com.pmo.ticket",
     description:
-        "- Login with google\n- Login with google\n- After Login, show details ( profile picture, name, email ) and a lot of more...",
+        "- Firebase\n- Admob\n- Available in Playstore\n- Fetching data from API and a lot of more...",
   ),
   Project(
     title: "Website Deteksi Penyakit Jantung",
-    link: "https://github.com/achmadrizkin/flutter_ecommerce",
+    link: "https://ardanudn.github.io/webportofolio/#/e",
     description:
-        "- Responsive Apps\n- Buy Product\n- Add Product to Shopping cart\n- Search Delegate and a lot of more...",
+        "- Machine Learning\n- Flask\n- Logistic Regression and a lot of more...",
   ),
   Project(
     title: "Sistem Auto Koreksi Jawaban",
-    link: "https://github.com/achmadrizkin/covid_tracker_indonesia_app",
-    description:
-        "- Responsive Apps\n- API\n- Splash Screengy Animation and a lot of more...",
+    link: "https://ardanudn.github.io/webportofolio/#/",
+    description: "- NLP App\n- Cosine Similarity\n- Flask and a lot of more...",
   ),
   Project(
     title: "Deteksi Atribut Sekolah",
-    link: "https://github.com/achmadrizkin/flutter_basic_banking_app",
+    link: "https://github.com/Ardanudn/atributStreamlit",
     description:
-        "- Responsive App\n- Transfer Money to costumer\n- View All Costumer\n- Delete Costumer and a lot of more...",
+        "- Computer Vision\n- YOLOv5+Mobile Net\n- Streamlit\n- Video and Photo Detection and a lot of more...",
   ),
 ];

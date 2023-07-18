@@ -18,12 +18,11 @@ class SocialMedia extends StatelessWidget {
               Spacer(),
               IconAbout(
                 asset: 'assets/icons/linkedin.svg',
-                url:
-                    'https://www.linkedin.com/in/achmad-rizki-nur-fauzie-a2a7021b3/',
+                url: 'https://id.linkedin.com/in/ardanudhuhrinugroho',
               ),
               IconAbout(
                 asset: 'assets/icons/github.svg',
-                url: 'https://github.com/achmadrizkin',
+                url: 'https://github.com/Ardanudn',
               ),
               Spacer(),
             ],
